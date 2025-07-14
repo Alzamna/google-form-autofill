@@ -1,0 +1,16 @@
+function randomNumber(min, max) {
+    return Math.floor(Math.random() * (max - min + 1)) + min;
+}
+
+const radioGroups = {};
+document.querySelectorAll('div[role="radio"]').forEach(el => {
+    const name = el.getAttribute('aria-labelledby');
+    if (!radioGroups[name]) radioGroups[name] = [];
+    radioGroups[name].push(el);
+});
+
+Object.values(radioGroups).forEach((group, i) => {
+    const choice = group[randomNumber(0, group.length - 1)];
+    choice.click();
+    console.log(`✅ Pilih radio group ke-${i+1}`);
+});
