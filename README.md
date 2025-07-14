@@ -32,8 +32,6 @@ You can fill:
 
 # google-form-autofill
 
-> Otomatis mengisi Google Form dengan data acak atau data yang sudah ditentukan.
-
 ---
 
 ## 🇮🇩 Deskripsi
