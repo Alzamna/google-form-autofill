@@ -15,21 +15,3 @@ if (!selected && radios.length > 0) {
     radios[Math.floor(Math.random() * radios.length)].click();
 }
 
-// Tunggu 1 detik → klik tombol submit atau next
-setTimeout(() => {
-    // Selector cari tombol Next / Selanjutnya / Kirim
-    const nextBtn = document.querySelector(
-        `div[role="button"][aria-label*="Berikutnya"],
-         div[role="button"][aria-label*="Next"],
-         div[role="button"][aria-label*="Selanjutnya"],
-         div[role="button"][aria-label*="Kirim"],
-         div[role="button"][aria-label*="Submit"]`
-    );
-
-    if (nextBtn) {
-        nextBtn.click();
-        console.log("✅ Tombol Next/Kirim diklik!");
-    } else {
-        console.warn("⚠️ Tombol Next/Kirim tidak ditemukan!");
-    }
-}, 1000);
