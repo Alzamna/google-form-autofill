@@ -17,7 +17,6 @@ You can fill:
 ✅ Radio buttons  
 ✅ Checkboxes  
 ✅ Dropdowns  
-✅ Multi-section navigation (Next / Submit buttons)
 
 ---
 
@@ -49,7 +48,6 @@ Script ini bisa mengisi:
 ✅ Radio button  
 ✅ Checkbox  
 ✅ Dropdown  
-✅ Navigasi Next / Kirim (untuk form multi-section)
 
 ---
 
