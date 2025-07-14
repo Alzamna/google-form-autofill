@@ -1,8 +1,5 @@
 # google-form-autofill
 
-> Automatically fill Google Forms with random or predefined data.  
-> Otomatis mengisi Google Form dengan data acak atau sesuai keinginan.
-
 ---
 
 ## 🌐 English
