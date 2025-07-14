@@ -19,10 +19,6 @@ You can fill:
 ✅ Dropdowns  
 ✅ Multi-section navigation (Next / Submit buttons)
 
-> ⚠️ **Important:**  
-> - Use this tool only on forms you own or have permission to test.  
-> - Do NOT use it for spamming or illegal activities.
-
 ---
 
 ### How To Use
@@ -56,10 +52,6 @@ Script ini bisa mengisi:
 ✅ Checkbox  
 ✅ Dropdown  
 ✅ Navigasi Next / Kirim (untuk form multi-section)
-
-> ⚠️ **Penting:**  
-> - Gunakan hanya pada Google Form milikmu sendiri atau yang kamu punya izin untuk diuji.  
-> - Jangan gunakan untuk spam atau aktivitas ilegal.
 
 ---
 
