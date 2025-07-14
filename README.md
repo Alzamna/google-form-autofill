@@ -1,7 +1,5 @@
 # google-form-autofill
 
----
-
 ## 🌐 English
 
 ### Description
